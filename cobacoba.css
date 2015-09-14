@@ -416,10 +416,10 @@ background:#2ECC71;
 border-bottom-color:#2ECC71;
 }
 .color3 .entry-meta.arr-up, .color3 .entry-footer, .color3 .featured_overlay:hover{
-background:rgba(70, 175, 74, 0.94);
+background:rgba(186, 27, 0, 0.9);
 }
 .color3 .entry-meta.arr-up h2.entry-title:before{
-border-bottom-color:rgba(70, 175, 74, 0.94);
+border-bottom-color:rgba(186, 27, 0, 0.9);
 }
 .color4 .entry-meta.arr-up, .color4 .entry-footer, .color4 .featured_overlay:hover{
 background:#9B59B6;
@@ -685,7 +685,7 @@ padding:0;
 .sidebar .widget h2{
 color:#FFF;
 font-size:19px;
-background:rgba(70, 175, 74, 0.94);
+background:rgba(186, 27, 0, 0.9);
 font-weight:300;
 position:relative;
 text-transform:none;
@@ -698,7 +698,7 @@ position:absolute;
 top:98%;
 left:30px;
 margin-left:-10px;
-border-color:rgba(70, 175, 74, 0.94) rgba(0,0,0,0) rgba(0,0,0,0);
+border-color:rgba(186, 27, 0, 0.9) rgba(0,0,0,0) rgba(0,0,0,0);
 border-style:solid;
 border-width:13px;
 }
@@ -1036,22 +1036,22 @@ h2.date-header,span.blog-admin,.Attribution,.navbar{
 display:none!important;
 }
 .entry-footer,.entry-meta.arr-up,.entry-meta.arr-up.item,.header-wrapper,#footer{
-background:rgba(70, 175, 74, 0.94);
+background:rgba(186, 27, 0, 0.9);
 }
 #blog-pager-older-link,#blog-pager-newer-link{
-background:rgba(70, 175, 74, 0.94)!important;
+background:rgba(186, 27, 0, 0.9)!important;
 }
 #blog-pager-older-link:after{
-border-color:rgba(0,0,0,0) rgba(0,0,0,0) rgba(0,0,0,0) rgba(70, 175, 74, 0.94);
+border-color:rgba(0,0,0,0) rgba(0,0,0,0) rgba(0,0,0,0) rgba(186, 27, 0, 0.9);
 }
 #blog-pager-newer-link:after{
-border-color:rgba(0,0,0,0) rgba(70, 175, 74, 0.94) rgba(0,0,0,0) rgba(0,0,0,0);
+border-color:rgba(0,0,0,0) rgba(186, 27, 0, 0.9) rgba(0,0,0,0) rgba(0,0,0,0);
 }
 h2.entry-title:before{
-border-color:rgba(0,0,0,0) rgba(0,0,0,0) rgba(70, 175, 74, 0.94);
+border-color:rgba(0,0,0,0) rgba(0,0,0,0) rgba(186, 27, 0, 0.9);
 }
 h1.post-title.entry-title:before,.footer h2:after{
-border-color:rgba(70, 175, 74, 0.94) rgba(0,0,0,0) rgba(0,0,0,0);
+border-color:rgba(186, 27, 0, 0.9) rgba(0,0,0,0) rgba(0,0,0,0);
 }
 .pagenavi{
 text-align:center;
@@ -1116,7 +1116,7 @@ font-size:16px;
 line-height:normal;
 margin:0em 0 30px;
 padding:0;
-background:rgba(70, 175, 74, 0.94);
+background:rgba(186, 27, 0, 0.9);
 color:#26495B;
 }
 #blog-pager-newer-link a, #blog-pager-older-link a{

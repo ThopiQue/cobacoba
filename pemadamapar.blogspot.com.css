@@ -1941,7 +1941,7 @@ div.floatingPlayer_gsvb div.playerInnerBox_gsvb .player_gsvb{width:320px;height:
 .pemadamnet{width:46%;float:left;border-bottom:1px solid rgba(0,0,0,0.2);padding:1%;margin:1%;height:150px}
 .pemadamnet h3{font-size:130%;text-align:left;padding:1%}
 .pemadamnet img{width:27%;text-align:center;float:left;padding:1%}
-.pemadamnet p{width:67%;font-size:100%;text-align:justify;padding:1%;float:left;color:#000;line-height:130%;height:100px}
+.pemadamnet p{width:67%;font-size:100%;text-align:justify;padding:1%;float:left;color:#000;line-height:130%;height:100px;text-indent:0;}
 @media (max-width:768px) {
 .pemadamnet{width:97%}
 .pemadamnet p{font-size:90%}

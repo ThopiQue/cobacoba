@@ -1955,4 +1955,4 @@ div.floatingPlayer_gsvb div.playerInnerBox_gsvb .player_gsvb{width:320px;height:
 .homeAPARpemadampost ul li{font-size:13px;text-align:justify;margin:0}
 .APARpemadamhomepostlist:hover{background-color:rgba(194,56,51,0.9);cursor:pointer;color:#fff;opacity:.5;-moz-box-shadow:0 0 10px 5px #000;-webkit-box-shadow:0 0 10px 5px#000000;box-shadow:0 0 10px 5px #000;filter:alpha(opacity=50);transition-delay:0;transition-duration:.4s;transition-property:all;transition-timing-function:line}
 .APARpemadamhomepostlist:hover a,.APARpemadamhomepostlist:hover p{color:#fff}
-#sidebar h2{font-size:140%};
+.widget .HTML h2{font-size:140%};

@@ -157,7 +157,7 @@ img.alignnone{display:block;margin:10px 0}
 .post-box .flex-direction-nav a:hover{background-color:none!important}
 .grid{float:left;width:291px;margin-right:20px}
 .grid.last{margin-right:0}
-.block{float:left;width:602px}
+.block{float:left;width:100%}
 .block.no-border .hentry{padding-top:0;border-top:none}
 .hentry{padding-top:30px;border-top:1px dashed #DDD;overflow:hidden}
 .grid .hentry{padding-top:0;border-top:none;margin-bottom:25px}

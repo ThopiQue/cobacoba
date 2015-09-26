@@ -105,7 +105,7 @@ img.alignnone{display:block;margin:10px 0}
 .primary-menu{float:left;margin:0}
 #primary-nav ul{float:left;margin:3px 30px 0;padding:0;list-style:none;line-height:55px}
 #primary-nav ul a{display:block;position:relative}
-#primary-nav ul li{background:url(http://demo.famethemes.com/lightblog/wp-content/themes/lightblog/images/star.png) no-repeat left center;float:left;position:relative;z-index:40;margin:0}
+#primary-nav ul li{background:url(http://4.bp.blogspot.com/-kYGKu4Nj6_8/VgYh-3yUjlI/AAAAAAAAG0w/aujgex-QjPQ/s1600/Kebakaran-Symbol-Vector.png) no-repeat left center;float:left;position:relative;z-index:40;margin:0}
 #primary-nav ul li:hover{visibility:inherit}
 #primary-nav ul ul{position:absolute;top:-9999em;width:250px}
 #primary-nav ul ul li{width:100%}
@@ -196,7 +196,7 @@ a:hover.more-link{text-decoration:underline;color:#FFF}
 .breadcrumbs a:hover{color:#494949!important;text-decoration:underline!important}
 .category-description{border-bottom:1px dashed #DDD;padding:0;margin:0 0 30px}
 .post-box ul{margin-left:45px;list-style:square outside none;margin-top:10px}
-.post-box ul li{margin-bottom:10px;line-height:120%;}
+.post-box ul li{margin-bottom:10px;line-height:120%;text-align:justify;}
 .avatar-image-container img{border-radius:50px;height:75px;width:75px;max-width:75px;max-height:75px;float:left;margin-bottom:10px}
 .comment-content{clear:both}
 .comment-actions.secondary-text a{color:#e53b2c;display:block;float:left;font-weight:700;margin-right:10px;text-decoration:none}

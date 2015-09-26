@@ -363,7 +363,7 @@ form label.comment-field{display:block}
 .flickr_badge_image{float:left;width:62px;height:62px;margin:0 10px 10px 0}
 .flickr_badge_image img{width:62px;height:62px}
 .copyright{background:#E53B2C;padding:15px 0;color:#FFF;font-size:13px;font-weight:700;line-height:21px;overflow:hidden;text-transform:uppercase}
-.copyright-left{float:left;width:470px;margin:2%}
+.copyright-left{float:left;width:50%;margin:2%}
 .copyright-left p{display:block;color:#FFF;font-size:12px;line-height:20px;margin:0}
 .copyright-left p:last-child{margin:0}
 .copyright-left a{color:#FFF;text-decoration:none}

@@ -52,10 +52,10 @@ kbd{font-weight:700}
 samp,var{font-style:italic}
 pre,code,tt{background:url(http://demo.famethemes.com/lightblog/wp-content/themes/lightblog/images/pre-bg.png) repeat;border:1px solid #EBEBEB;color:#888;display:block;font-size:12px;line-height:20px;overflow:auto;padding:20px;word-wrap:break-word;vertical-align:baseline}
 ul,ol,dl{margin-left:30px;padding:0}
-table{border:1px solid #ccc;border-width:1px;line-height:18px;margin:0 0 22px;text-align:left;padding:0 5px;border: 1px solid #000;}
+table{border:1px solid #ccc;border-width:1px;line-height:18px;margin:0 0 22px;text-align:left;padding:0 5px;border: 1px solid #000}
 table .even{background:#ddd}
-tr{border: 1px solid #000;}
-td{border: 1px solid #000;}
+tr{border:1px solid #000}
+td{border:1px solid #000}
 caption{text-align:left}
 tr{border-bottom:1px solid #ccc}
 th,td{padding:5px;vertical-align:middle;text-align:center}
